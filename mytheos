@@ -3,6 +3,13 @@
 <head>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Forum">
 <style>
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
 body {
   background-color:  #b7dfec;
  font-family: Forum}
